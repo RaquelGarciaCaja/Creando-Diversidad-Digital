@@ -15,13 +15,32 @@ body {
   align-items: center;
 }
 
-.header-1 {
+.img {
+  padding: 10px;
+  width: 155px;
+  text-align: center;
 }
 
 .link {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  text-align: center;
+}
+
+.item {
+  text-decoration: none;
+  text-align: center;
+}
+
+.link a li {
+  padding-bottom: 13px;
+  padding-right: 20px;
+  font-size: 16px;
+  text-decoration: none;
+  color: #4a4a4a;
+  text-align: center;
 }
 
 .main {
@@ -33,7 +52,9 @@ body {
   height: 100vh;
 }
 .title {
-  color: white;
+  color: #ffffff;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  font-size: 30px;
+  text-align: center;
 }
