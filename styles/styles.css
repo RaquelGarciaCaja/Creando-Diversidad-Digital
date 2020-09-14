@@ -39,6 +39,10 @@ body {
   text-align: center;
 }
 
+.item-contacto {
+  padding-right: 30px;
+}
+
 /* end header */
 /* main */
 .main {
