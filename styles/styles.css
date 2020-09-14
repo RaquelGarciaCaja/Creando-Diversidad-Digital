@@ -44,6 +44,7 @@ body {
 }
 
 /* end header */
+
 /* main */
 .main {
   background-color: #3cdbc0;
@@ -55,8 +56,6 @@ body {
 }
 .title {
   color: #ffffff;
-  display: flex;
-  justify-content: center;
   font-size: 30px;
   text-align: center;
 }
